@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\bin\Debug\net5.0\Encapsulation_ve_Property Kavramı.exe
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\bin\Debug\net5.0\Encapsulation_ve_Property Kavramı.deps.json
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\bin\Debug\net5.0\Encapsulation_ve_Property Kavramı.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\bin\Debug\net5.0\Encapsulation_ve_Property Kavramı.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\bin\Debug\net5.0\Encapsulation_ve_Property Kavramı.dll
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\bin\Debug\net5.0\Encapsulation_ve_Property Kavramı.pdb
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.dll
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\refint\Encapsulation_ve_Property Kavramı.dll
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.pdb
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\Encapsulation_ve_Property Kavramı.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Encapsulation_ve_Property Kavramı\obj\Debug\net5.0\ref\Encapsulation_ve_Property Kavramı.dll
